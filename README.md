@@ -1,10 +1,14 @@
 # Resources
 
+## Services
+
+* Local S3 client. [https://min.io/](https://min.io/)
+
 ## Vue
 
 ### Packages
 
-* [https://tiptap.scrumpy.io/](https://tiptap.scrumpy.io/)
+* Rich editor. [https://tiptap.scrumpy.io/](https://tiptap.scrumpy.io/)
 
 ## Manipulations
 
