@@ -1,5 +1,11 @@
 # Resources
 
+## Vue
+
+### Packages
+
+* [https://tiptap.scrumpy.io/](https://tiptap.scrumpy.io/)
+
 ## Manipulations
 
 ### Images
