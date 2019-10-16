@@ -1,5 +1,9 @@
 # Resources
 
+## Laravel
+
+* Single Table Inheritance. [https://github.com/calebporzio/parental](https://github.com/calebporzio/parental)
+
 ## Services
 
 * Local S3 client. [https://min.io/](https://min.io/)
