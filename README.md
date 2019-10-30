@@ -8,11 +8,13 @@
 
 * Local S3 client. [https://min.io/](https://min.io/)
 
-## Vue
+## Javascript
 
 ### Packages
 
 * Rich editor. [https://tiptap.scrumpy.io/](https://tiptap.scrumpy.io/)
+* Validation. [https://github.com/oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs)
+* Validation. [https://github.com/skaterdav85/validatorjs](https://github.com/skaterdav85/validatorjs)
 
 ## Manipulations
 
