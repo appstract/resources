@@ -27,6 +27,8 @@
 
 ## Installation
 
+* [WKHTMLtoPDF](https://gist.github.com/19peaches/c0555050417f79d72e54d8c29b1d8dde)
+
 ### MySQL
 
 * [https://piperhaywood.com/laravel-valet-homebrew-mysql/](https://piperhaywood.com/laravel-valet-homebrew-mysql/)
