@@ -24,6 +24,7 @@
 ### PDF
 
 * [DocRaptor](https://docraptor.com/)
+* [pdfmatrix](https://pdfmatrix.com/)
 
 ## Installation
 
